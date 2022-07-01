@@ -1,3 +1,5 @@
 # First C++ Program
 
-Print Hello word to console 
+Objectives
+1. Print Hello word to console.
+2. How to print on new line
